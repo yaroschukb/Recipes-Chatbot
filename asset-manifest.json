@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Recipes-Chatbot/static/css/main.805d9622.chunk.css",
+    "main.js": "/Recipes-Chatbot/static/js/main.149df161.chunk.js",
+    "main.js.map": "/Recipes-Chatbot/static/js/main.149df161.chunk.js.map",
+    "runtime-main.js": "/Recipes-Chatbot/static/js/runtime-main.faaf7751.js",
+    "runtime-main.js.map": "/Recipes-Chatbot/static/js/runtime-main.faaf7751.js.map",
+    "static/js/2.9c639e9c.chunk.js": "/Recipes-Chatbot/static/js/2.9c639e9c.chunk.js",
+    "static/js/2.9c639e9c.chunk.js.map": "/Recipes-Chatbot/static/js/2.9c639e9c.chunk.js.map",
+    "index.html": "/Recipes-Chatbot/index.html",
+    "static/css/main.805d9622.chunk.css.map": "/Recipes-Chatbot/static/css/main.805d9622.chunk.css.map",
+    "static/js/2.9c639e9c.chunk.js.LICENSE.txt": "/Recipes-Chatbot/static/js/2.9c639e9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faaf7751.js",
+    "static/js/2.9c639e9c.chunk.js",
+    "static/css/main.805d9622.chunk.css",
+    "static/js/main.149df161.chunk.js"
+  ]
+}
