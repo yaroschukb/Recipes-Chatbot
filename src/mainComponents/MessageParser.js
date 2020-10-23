@@ -6,8 +6,6 @@ class MessageParser {
     this.state = state;
   }
 
- 
-
  parse(message) {
   
    let lowerCaseMessage = message.toLowerCase()
