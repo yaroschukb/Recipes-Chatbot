@@ -3,7 +3,7 @@ Chat bot to choose a recipe by category.
 As the basis of this project is chosen https://fredrikoseberg.github.io/react-chatbot-kit-docs/
 The basis is adapted to the goals of the project.
 
-# Demo Website!
+# Demo:
 👉 Demo: https://yaroschukb.github.io/Recipes-Chatbot/
 
 ### Technologies used 🛠️
