@@ -1,5 +1,6 @@
 # Recipes Chatbot 
-Chat bot to choose a recipe by category. 
+
+The training project "Recipes Chatbot" was created to practice the skills of creating a simple application using the React library.
 As the basis of this project is chosen https://fredrikoseberg.github.io/react-chatbot-kit-docs/
 The basis is adapted to the goals of the project.
 
